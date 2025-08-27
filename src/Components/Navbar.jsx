@@ -96,10 +96,10 @@ function Navbar() {
               Login
             </Link>
             <Link
-              href="/dashboard/add-product"
+              href="/add-product"
               className="block text-gray-700 hover:text-red-800"
             >
-              Dashboard
+              Add Product
             </Link>
           </div>
         )}
